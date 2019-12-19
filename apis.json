@@ -1,0 +1,86 @@
+{
+    "name": "Semantics3",
+    "description": "Semantics3 offers the world's most extensive UPC and Product Lookup API. Get product data solutions to power the next generation of ecommerce.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1473-semantics3.jpg",
+    "tags": [
+        "commerce",
+        "have api",
+        "meta",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/semantics3\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Semantics3",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1473-semantics3.jpg",
+            "humanURL": "https:\/\/www.semantics3.com\/pricing",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/semantics3-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/semantics3-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.semantics3.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.semantics3.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.semantics3.com\/blog\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/semantics3"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/semantics3"
+        },
+        {
+            "type": "Email",
+            "url": "support@semantics3.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@semantics3.com"
+        },
+        {
+            "type": "Email",
+            "url": "contactus@semantics3.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Semantics3"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Semantics3"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.semantics3.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.semantics3.com\/pricing"
+        }
+    ]
+}
